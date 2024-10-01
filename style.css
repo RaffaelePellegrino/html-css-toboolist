@@ -41,9 +41,10 @@ main{
     margin-left: 50px;
     border: solid black;
     width: 100px;
-    background-color: aqua;
+    background-color: #007bff;
     margin-top: 8px;
     margin-bottom: 8px;
+    color: white;
 }
 
 .bottoni2{
@@ -53,4 +54,45 @@ main{
     border: solid black;
     width: 100px;
     background-color: white;
+}
+
+/* Main div without head */
+
+.block-main-list{
+    margin-top: 5px;
+    background-color: grey;
+    padding: 50px;
+    margin-bottom: 5px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+.to-do{
+    list-style-type: none;
+    padding: 20px;
+    padding-left: 30px;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+.immagini{
+    display: inline-block;
+    width: 20px;
+    padding-right: 10px;
+    vertical-align: middle;
+}
+
+#editorial{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 50px;
+    border: solid black;
+    width: 100px;
+    background-color: #007bff;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: white;
 }
