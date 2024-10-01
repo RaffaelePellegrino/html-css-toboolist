@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    background-color: grey;
+}
 .poppins-bold {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
@@ -32,7 +34,7 @@ header h2{
 
 }
 .block{
-    background-color: grey;
+    background-color: whitesmoke;
 }
 
 /* Main */
@@ -46,7 +48,7 @@ main{
 .block-main{
     height: 100%;
     width: 100%;
-    background-color: grey;
+    background-color: whitesmoke;
 }
 
 .bottoni{
@@ -66,16 +68,17 @@ main{
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
-    border: solid black;
+    border: solid grey;
     width: 100px;
-    background-color: white;
+    background-color: whitesmoke;
+    color: grey;
 }
 
 /* Main div without head */
 
 .block-main-list{
-    margin-top: 5px;
-    background-color: grey;
+    margin-top: 2px;
+    background-color: whitesmoke;
     padding: 50px;
     margin-bottom: 5px;
 }
