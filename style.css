@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: grey;
+    background-color: #d3d3d3;
 }
 .poppins-bold {
     font-family: "Poppins", sans-serif;
@@ -43,6 +43,7 @@ main{
     margin-right: 200px;
     margin-left: 200px;
     margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .block-main{
@@ -80,7 +81,6 @@ main{
     margin-top: 2px;
     background-color: whitesmoke;
     padding: 50px;
-    margin-bottom: 5px;
 }
 
 h3{
